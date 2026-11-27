@@ -1,12 +1,11 @@
 ---
 name: test-lifecycle
-description: Manage test lifecycles and written accountability when planning, introducing, maintaining, reviewing, or retiring tests and their explanatory documentation.
+description: Define or review a test’s role, written rationale, and retention or retirement conditions when planning, introducing, maintaining, reviewing, or retiring tests.
 ---
 
 # Test Lifecycle
 
-Use this skill when planning, introducing, maintaining, reviewing, or retiring tests and their explanatory documentation.
-Apply it within the current work scope, using settled requirements and product design as the authority for expected behavior.
+Use settled requirements and product design to determine expected behavior. Apply the lifecycle and documentation rules below within the scope of the current test work.
 
 ## Assign written accountability
 
