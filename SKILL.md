@@ -1,6 +1,6 @@
 ---
 name: test-lifecycle
-description: Define or review a test’s role, written rationale, and retention or retirement conditions when planning, introducing, maintaining, reviewing, or retiring tests.
+description: Define or review a test’s role, written rationale, and retention or retirement conditions when planning, introducing, maintaining, reviewing, or retiring tests or their explanatory documentation.
 ---
 
 # Test Lifecycle
