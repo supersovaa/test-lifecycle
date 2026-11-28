@@ -1,11 +1,11 @@
 ---
 name: test-lifecycle
-description: Define or review a test’s role, written rationale, and retention or retirement conditions when planning, introducing, maintaining, reviewing, or retiring tests or their explanatory documentation.
+description: Use when planning, introducing, maintaining, reviewing, or retiring tests or their explanatory documentation. Govern their roles and written accountability.
 ---
 
 # Test Lifecycle
 
-Use settled requirements and product design to determine expected behavior. Apply the lifecycle and documentation rules below within the scope of the current test work.
+Use settled requirements and product design for expected behavior. When work affects a test or its explanation, apply the rules for its current lifecycle stage, including transfer of documentation ownership and retention or retirement when due.
 
 ## Assign written accountability
 
